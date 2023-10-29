@@ -81,7 +81,7 @@ Partial Class Form1
         Me.IsMdiContainer = True
         Me.MainMenuStrip = Me.MenuStrip1
         Me.Name = "Form1"
-        Me.Text = "Негизги форма 2004.01013"
+        Me.Text = "Негизги форма 2004.01003"
         Me.MenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.PerformLayout()
         Me.ResumeLayout(False)

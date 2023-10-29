@@ -51,25 +51,25 @@ Partial Class Form1
         'ToolStripMenuItem2
         '
         Me.ToolStripMenuItem2.Name = "ToolStripMenuItem2"
-        Me.ToolStripMenuItem2.Size = New System.Drawing.Size(224, 26)
+        Me.ToolStripMenuItem2.Size = New System.Drawing.Size(199, 26)
         Me.ToolStripMenuItem2.Text = "Силиндр"
         '
         'ToolStripMenuItem3
         '
         Me.ToolStripMenuItem3.Name = "ToolStripMenuItem3"
-        Me.ToolStripMenuItem3.Size = New System.Drawing.Size(224, 26)
+        Me.ToolStripMenuItem3.Size = New System.Drawing.Size(199, 26)
         Me.ToolStripMenuItem3.Text = "Сфера"
         '
         'ToolStripMenuItem4
         '
         Me.ToolStripMenuItem4.Name = "ToolStripMenuItem4"
-        Me.ToolStripMenuItem4.Size = New System.Drawing.Size(224, 26)
+        Me.ToolStripMenuItem4.Size = New System.Drawing.Size(199, 26)
         Me.ToolStripMenuItem4.Text = "Конус"
         '
         'ToolStripMenuItem5
         '
         Me.ToolStripMenuItem5.Name = "ToolStripMenuItem5"
-        Me.ToolStripMenuItem5.Size = New System.Drawing.Size(224, 26)
+        Me.ToolStripMenuItem5.Size = New System.Drawing.Size(199, 26)
         Me.ToolStripMenuItem5.Text = "Кесилген конус"
         '
         'Form1
@@ -81,7 +81,7 @@ Partial Class Form1
         Me.IsMdiContainer = True
         Me.MainMenuStrip = Me.MenuStrip1
         Me.Name = "Form1"
-        Me.Text = "Негизги форма"
+        Me.Text = "Негизги форма 2004.01013"
         Me.MenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.PerformLayout()
         Me.ResumeLayout(False)
